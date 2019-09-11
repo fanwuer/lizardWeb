@@ -119,6 +119,10 @@ func (this *ReportController) Query() {
 	this.ServeJSON()
 }
 
+func init() {
+	os.MkdirAll("file/back", 0777)
+}
+
 func (this *ReportController) Export() {
 	DB := orm.NewOrm()
 	err := DB.Using("dbback")

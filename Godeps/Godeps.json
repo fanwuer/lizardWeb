@@ -1,0 +1,122 @@
+{
+	"ImportPath": "github.com/hunterhug/lizardWeb",
+	"GoVersion": "go1.12",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Unknwon/goconfig",
+			"Rev": "3dba17dd7b9ec8509b3621a73a30a4b333eb28da"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/cache",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/config",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/context",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/context/param",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/grace",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/logs",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/orm",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/session",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/toolbox",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/utils",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/utils/captcha",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/astaxie/beego/validation",
+			"Comment": "v1.11.1-172-g8395a26",
+			"Rev": "8395a26061497e76ca577fd23836bd7c51e01b84"
+		},
+		{
+			"ImportPath": "github.com/beego/i18n",
+			"Rev": "e9308947f407a24aaa1e7dbe35a01931e99cb255"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.4.0-30-g877a977",
+			"Rev": "877a9775f06853f611fb2d4e817d92479242d1cd"
+		},
+		{
+			"ImportPath": "github.com/hunterhug/marmot/miner",
+			"Rev": "913c1a0c641974c5c6caab76350aac42f807864e"
+		},
+		{
+			"ImportPath": "github.com/hunterhug/marmot/proxy",
+			"Rev": "913c1a0c641974c5c6caab76350aac42f807864e"
+		},
+		{
+			"ImportPath": "github.com/hunterhug/marmot/util",
+			"Rev": "913c1a0c641974c5c6caab76350aac42f807864e"
+		},
+		{
+			"ImportPath": "github.com/hunterhug/marmot/util/go-logging",
+			"Rev": "913c1a0c641974c5c6caab76350aac42f807864e"
+		},
+		{
+			"ImportPath": "github.com/hunterhug/parrot/util",
+			"Rev": "6af97adffe79ea0ed0fca21d79b7fdf2cd9cd912"
+		},
+		{
+			"ImportPath": "github.com/shiena/ansicolor",
+			"Rev": "a422bbe96644373c5753384a59d678f7d261ff10"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme",
+			"Rev": "60c769a6c58655dab1b9adac0d58967dd517cfba"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme/autocert",
+			"Rev": "60c769a6c58655dab1b9adac0d58967dd517cfba"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Comment": "v2.2.2",
+			"Rev": "51d6538a90f86fe93ac480b35f37b2be17fef232"
+		}
+	]
+}
