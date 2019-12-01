@@ -8,7 +8,7 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-此仓库为[Project: Lizard](https://github.com/hunterhug/lizard)的可视化前端界面仓库。
+此仓库为 [💐 Full Automatic Download | 一个跨境电商四站全网选款产品](https://github.com/hunterhug/lizard) 的可视化前端界面仓库。
 
 ## 一. 介绍
 
