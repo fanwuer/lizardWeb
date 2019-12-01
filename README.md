@@ -1,4 +1,4 @@
-# Project: Lizard
+# Project: LizardWeb
 
 [![GitHub forks](https://img.shields.io/github/forks/hunterhug/lizard.svg?style=social&label=Forks)](https://github.com/hunterhug/lizard/network)
 [![GitHub stars](https://img.shields.io/github/stars/hunterhug/lizard.svg?style=social&label=Stars)](https://github.com/hunterhug/lizard/stargazers)
@@ -8,9 +8,7 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-重要提示：全网采集，看起来既野蛮又霸道，从此不再维护并开发新功能。只供学习交流IT技术。请勿使用在生产环境。Only a demo to learn IT skill, don't use in production.
-
-温馨提示：我无法阻止你的一些行为。采集公开的小规模网站数据并不违法，就比如手工复制粘贴，但是稍大规模的自动采集会给服务商服务造成压力，可能有法律风险，请谨慎操作。
+此仓库为[Project: Lizard](https://github.com/hunterhug/lizard)的可视化前端界面仓库。
 
 ## 一. 介绍
 
